@@ -6,7 +6,7 @@
 
 
 
-https://github.com/athoszxz/my_first_steps
+​		https://github.com/athoszxz/my_first_steps
 
  
 
@@ -16,19 +16,19 @@ https://github.com/athoszxz/my_first_steps
 
  
 
-echo "# my_first_steps" >> README.md
+​			echo "# my_first_steps" >> README.md
 
-git init
+​			git init
 
-git add README.md
+​			git add README.md
 
-git commit -m "first commit"
+​			git commit -m "first commit"
 
-git branch -M main
+​			git branch -M main
 
-git remote add origin https://github.com/athoszxz/my_first_steps.git
+​			git remote add origin https://github.com/athoszxz/my_first_steps.git
 
-git push -u origin main
+​			git push -u origin main
 
  
 
@@ -38,11 +38,11 @@ git push -u origin main
 
 
 
-git add .
+​			git add .
 
-git commit -m “add texto”
+​			git commit -m “add texto”
 
-git push -u origin main
+​			git push -u origin main
 
  
 
@@ -52,14 +52,16 @@ git push -u origin main
 
  
 
-serei_ignorado.txt
+​			serei_ignorado.txt
 
  
 
 5. **Dentro do seu diretório local, crie um arquivo chamado “README.md” e edite-o contendo todas as respostas aos enunciados das questões anteriores. Adicione-o ao seu repositório remoto utilizando os comandos git necessários para a realização desta tarefa. Cole aqui a cadeia de comandos que você utilizou para a realização desta tarefa.** 
 
-git add .
+   ​	
 
-git commit -m “add exercício ao README.md”
+   ​	git add .
 
-git push -u origin main
+   ​	git commit -m “add exercício ao README.md”
+
+   ​	git push -u origin main
