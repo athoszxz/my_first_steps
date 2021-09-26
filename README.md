@@ -4,7 +4,7 @@
 
 1. **Após criado a sua conta no GitHub, crie um repositório remoto público chamado “my_first_steps” e cole o link aqui;** 
 
-****
+
 
 https://github.com/athoszxz/my_first_steps
 
